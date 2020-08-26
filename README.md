@@ -17,7 +17,7 @@ You can see what I am currently up to on [parixitsoni.com][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/natterstefan/natterstefan">
+<a href="https://github.com/parixitsoni/parixitsoni">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
