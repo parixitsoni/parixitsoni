@@ -25,7 +25,7 @@
 &nbsp;
 
 **Languages and Tools:** 
-&nbsp;
+<br/>
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
@@ -48,16 +48,16 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
-&nbsp;
+<br/>
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" width="100%" height="20%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
+  <img align="center" width="20%" height="20%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>  
 
 
 
 **Visitors site:***
-<p align="center">
+<p>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=parixitsoni.parixitsoni" />
 </p>
 
