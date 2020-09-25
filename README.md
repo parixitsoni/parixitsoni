@@ -31,12 +31,10 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=c9cacc&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -60,7 +58,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>  
-  <br />
+ 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
   
@@ -79,7 +77,7 @@ Both apis are in trouble due to the number of requ"https://www.vectorlogo.zone/l
 
 
 
-⭐️ From [parixitsoni](https://github.com/parixitsoni
+⭐️ From [parixitsoni](https://github.com/parixitsoni)
 
 [1]: https://parixitsoni.com
 
