@@ -34,7 +34,7 @@ You can use the website to generate badges: https://shields.io/
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>
   
-
+<p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -61,16 +61,10 @@ You can use the website to generate badges: https://shields.io/
  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-  
-Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.mehttps://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg
-Both apis are in trouble due to the number of requ"https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg
-<p align
 </p>
 
-Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.mehttps://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg
-Both apis are in trouble due to the number of requ"https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg
+
+Your hits or visitors site:
 <p align="center">
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=parixitsoni.parixitsoni" />
 </p>
