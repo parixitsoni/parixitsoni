@@ -31,7 +31,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=c9cacc&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
