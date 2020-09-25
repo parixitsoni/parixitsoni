@@ -16,16 +16,16 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🌱 I’m currently learning laravel; 
-- ⚡️ Fun-Fact: Jack of all trades, master of none;
-- 📫 How to reach me: contact@parixitsoni.com;
-- 😄 You can see what I am currently up to on [parixitsoni.com][1].
+- 🌱 I’m currently learning laravel
+- ⚡️ Fun-Fact: Jack of all trades, master of none
+- 📫 How to reach me: contact@parixitsoni.com
+- 😄 You can see what I am currently up to on [parixitsoni.com][1]
 
+<br />
 
-&nbsp;
 
 **Languages and Tools:** 
-<br/>
+<br />
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
@@ -56,7 +56,7 @@
 
 
 
-**Visitors site:***
+**Visitors site:**
 <p>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=parixitsoni.parixitsoni" />
 </p>
