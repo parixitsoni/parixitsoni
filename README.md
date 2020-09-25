@@ -29,36 +29,31 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:** 
 <br />
+
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
+  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>
   
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
- 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
- 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code> 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>  
- 
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
