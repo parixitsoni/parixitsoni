@@ -22,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently learning laravel; 
 - ⚡️ Fun-Fact: Jack of all trades, master of none;
 - 📫 How to reach me: contact@parixitsoni.com;
--You can see what I am currently up to on [parixitsoni.com][1].
+- 📫 You can see what I am currently up to on [parixitsoni.com][1].
 
 
 **Languages and Tools:** 
@@ -77,5 +77,7 @@ Both apis are in trouble due to the number of requ"https://www.vectorlogo.zone/l
 
 
 
-⭐️ From [parixitsoni](https://github.com/parixitsoni)
+⭐️ From [parixitsoni](https://github.com/parixitsoni
+
+[1]: https://parixitsoni.com
 
