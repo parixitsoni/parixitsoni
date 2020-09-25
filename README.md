@@ -51,7 +51,7 @@
 <br/>
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" width="20%" height="20%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
+  <img align="center" width="60%" height="30%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
 </a>  
 
 
