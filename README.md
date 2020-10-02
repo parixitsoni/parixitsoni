@@ -48,25 +48,17 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 </p>
-<br/>
-<p>
-  
-<br/>
-<br/>
-<table>
-  <tr>
-  <td>
-![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
-</td>
 
-<tr>
-  <td>
+<br/>
+  
+
+
+![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni&layout=compact)](https://github.com/parixitsoni/github-readme-stats)
-  </td>
-</tr>
-</table>
-<br/>
-<br/>
+
 
 **Visitors site:**
 <p>
