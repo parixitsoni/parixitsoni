@@ -53,14 +53,18 @@
   
 <br/>
 <br/>
-
+<table>
+  <tr>
+  <td>
 ![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
+</td>
 
-<br/>
-<br/>
-
+<tr>
+  <td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni&layout=compact)](https://github.com/parixitsoni/github-readme-stats)
-
+  </td>
+</tr>
+</table>
 <br/>
 <br/>
 
