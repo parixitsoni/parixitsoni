@@ -51,11 +51,10 @@
 <br/>
 <p>
   
-<a href="https://github.com/parixitsoni/parixitsoni">
-  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/parixitsoni/parixitsoni/f848f9a799636b424767e82788bf4be665dc6de0/git-header.svg" />
-</a>  
+<br/>
+<br/>
 
-
+[![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni)](https://github.com/parixitsoni/github-readme-stats)
 
 
 **Visitors site:**
