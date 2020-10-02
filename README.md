@@ -57,7 +57,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni&layout=compact)](https://github.com/parixitsoni/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni)
 
 
 **Visitors site:**
