@@ -50,8 +50,9 @@
 </p>
 <br/>
 <p>
+  
 <a href="https://github.com/parixitsoni/parixitsoni">
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/parixitsoni/parixitsoni/f848f9a799636b424767e82788bf4be665dc6de0/git-header.svg" />
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/parixitsoni/parixitsoni/f848f9a799636b424767e82788bf4be665dc6de0/git-header.svg" />
 </a>  
 
 
