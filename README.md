@@ -56,7 +56,6 @@
 
 ![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
 
-
 **Visitors site:**
 <p>
     <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=parixitsoni.parixitsoni" />
