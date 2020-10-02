@@ -51,7 +51,7 @@
 <br/>
 <p>
 <a href="https://github.com/parixitsoni/parixitsoni">
-  <img align="center" width="60%" height="30%" src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=#ffffff" alt="Catalin's GitHub Stats" />
+[![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni)](https://github.com/parixitsoni/github-readme-stats)
 </a>  
 
 
@@ -66,4 +66,7 @@
 ⭐️ From [parixitsoni](https://github.com/parixitsoni)
 
 [1]: https://parixitsoni.com
+
+
+
 
