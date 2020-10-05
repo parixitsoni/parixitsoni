@@ -52,14 +52,7 @@
 
 <br/>
   
-
-
 ![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parixitsoni&layout=compact)
-
 
 **Visitors site:**
 <p>
