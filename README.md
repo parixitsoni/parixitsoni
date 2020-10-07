@@ -54,12 +54,10 @@
   
 ![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
 
-**Visitors site:**
 
 
 
-
-⭐️ From [parixitsoni](https://github.com/parixitsoni)
+❤❤❤ From [parixitsoni](https://parixitsoni.com)
 
 [1]: https://parixitsoni.com
 
