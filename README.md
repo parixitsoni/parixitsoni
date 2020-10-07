@@ -52,7 +52,7 @@
 
 <br/>
   
-![Parixit's github stats](<img src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues" width="100%"/>)
+![Parixit's github stats](<img src="https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues" width="100%">)
 
 
 
