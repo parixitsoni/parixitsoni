@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning laravel
 - ⚡️ Fun-Fact: Jack of all trades, master of none
 - 📫 How to reach me: contact@parixitsoni.com
-- 😄 You can see what I am currently up to on [parixitsoni.com][1]
+- 😄 You can see what I am currently up to on [parixitsoni.me][1]
 
 <br />
 
@@ -57,9 +57,9 @@
 
 
 
-❤❤❤ From [parixitsoni](https://parixitsoni.com)
+❤❤❤ From [parixitsoni](https://parixitsoni.me)
 
-[1]: https://parixitsoni.com
+[1]: https://parixitsoni.me
 
 
 
