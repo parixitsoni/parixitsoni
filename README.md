@@ -3,7 +3,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parixitsoni/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@parixitsoni.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contact@parixitsoni.me/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fparixit_soni)](https://twitter.com/parixit_soni)
 <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=parixitsoni.parixitsoni" />
 
@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning ReactJS
 - ⚡️ Fun-Fact: Jack of all trades, master of none
-- 📫 How to reach me: contact@parixitsoni.com
+- 📫 How to reach me: contact@parixitsoni.me
 - 😄 You can see what I am currently up to on [parixitsoni.me][1]
 
 <br />
