@@ -19,8 +19,8 @@
 
 - 🌱 I’m currently learning ReactJS
 - ⚡️ Fun-Fact: Jack of all trades, master of none
-- 📫 How to reach me: contact@parixitsoni.me
-- 😄 You can see what I am currently up to on [parixitsoni.me][1]
+- 📫 How to reach me: parikshitsoni85@gmail.com
+
 
 <br />
 
