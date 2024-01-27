@@ -55,9 +55,7 @@
 
 
 
-❤❤❤ From [parixitsoni](https://parixitsoni.me)
-
-[1]: https://parixitsoni.me
+❤❤❤ From [parixitsoni]
 
 
 
