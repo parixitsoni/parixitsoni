@@ -14,7 +14,6 @@
 **Talking about Personal Stuffs:**
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/parixitsoni/parixitsoni/f848f9a799636b424767e82788bf4be665dc6de0/git-header.svg" />
 
 
 - 🌱 I’m currently learning ReactJS
@@ -52,7 +51,6 @@
 
 <br/>
   
-![Parixit's github stats](https://github-readme-stats.vercel.app/api?username=parixitsoni&show_icons=true&hide=contribs,issues)
 
 
 
