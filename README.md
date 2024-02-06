@@ -9,7 +9,7 @@
 &nbsp;
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 
 
@@ -48,13 +48,3 @@
 </p>
 
 <br/>
-  
-
-
-
-
-❤❤❤ From parixitsoni
-
-
-
-
