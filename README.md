@@ -53,7 +53,7 @@
 
 
 
-❤❤❤ From [parixitsoni]
+❤❤❤ From parixitsoni
 
 
 
